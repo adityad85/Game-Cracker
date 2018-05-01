@@ -15,5 +15,10 @@ Thus having enough time to search for the answers on the search results.
 For text recognition purposes and searches it on google immediately as soon as it has the results.
 We won a lot of times with the help of this very simple program. It was fun coding it .
 
+To test the script, do this :
+```python
+python script.py
+```
+
 Took help from this...
 https://github.com/lishiyo/hqtrivia
