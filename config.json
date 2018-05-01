@@ -1,0 +1,9 @@
+{
+    "GOOGLE": {
+      "CREDENTIALS_PATH": "C:/Users/Aditya/Documents/GitHub/hqtrivia/credential.json",
+      "CUSTOM_SEARCH_ENGINE_ID": "003660213155502053104:1kc4ve88ef8"
+    },
+    "LOCAL": {
+      "IMAGE_PATH": "C:/Users/Aditya/Documents/GitHub/hqtrivia/output/screenshot.png"
+    }
+  }
